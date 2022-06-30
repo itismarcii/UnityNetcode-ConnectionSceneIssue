@@ -1,9 +1,11 @@
 # UnityNetcode-ConnectionSceneIssue
 Burgreport for "Unity Netcode for GameObjects"
 
-In the MainMenu Scene select Server or Client ( Recommend to build Server and run Client on editor !!! )
+Open the Project. 
 
-Start in Editor mode the Game with an server build running
+In the Menu Scene select Server or Client on the NetworkSetupConfig Gameobject ( Recommend to build Server and run Client on editor !!! )
+
+Start in Editor mode the Game with an server build running ( Use for the server build the default build inside the ServerBuild folder )
 
 Client will connect to the Server
 
