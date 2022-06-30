@@ -3,7 +3,7 @@ Burgreport for "Unity Netcode for GameObjects"
 
 Open the Project. 
 
-In the MainMenu Scene select Server or Client ( Recommend to build Server and run Client on editor !!! )
+In the Menu Scene select Server or Client ( Recommend to build Server and run Client on editor !!! )
 
 Start in Editor mode the Game with an server build running
 
